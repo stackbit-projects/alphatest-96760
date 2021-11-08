@@ -81,7 +81,7 @@ sections:
       submitLabel: Send Message
     feature:
       type: ImageBlock
-      url: /images/trout.png
+      url: /images/Testimonial.png
       altText: Contact form image
     styles:
       self:
